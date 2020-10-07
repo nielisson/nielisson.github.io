@@ -1279,7 +1279,7 @@ input, select, textarea {
 				}
 
 				.row.aln-left {
-					justify-content: flex-start;
+					justify-content: left;
 				}
 
 				.row.aln-center {
