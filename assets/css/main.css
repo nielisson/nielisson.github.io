@@ -301,6 +301,7 @@ input, select, textarea {
 
 		.row.aln-left {
 			justify-content: flex-start;
+			text-align: left;
 		}
 
 		.row.aln-center {
