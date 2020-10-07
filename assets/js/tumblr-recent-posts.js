@@ -68,7 +68,7 @@ Tumblr.RecentPosts = function(el, postsCount) {
     if (titleType in post) {
       return {
         title: post[titleType],
-        url: post["url-with-slug"]
+        url: post["https://www.tumblr.com/blog/nielisson"]
       };
     }
   };
