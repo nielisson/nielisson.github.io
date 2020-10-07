@@ -1860,7 +1860,15 @@ input, select, textarea {
 					background-color: #39A3D4;
 				}
 
+				ul.social li a.fa-discord {
+					background-color: #c4c5c5;
+				}
+
 				ul.social li a.fa-skype {
+					background-color: #10BEF1;
+				}
+
+				ul.social li a.fa-behance {
 					background-color: #10BEF1;
 				}
 
@@ -1869,6 +1877,10 @@ input, select, textarea {
 				}
 
 				ul.social li a.fa-youtube {
+					background-color: #BF2E25;
+				}
+
+				ul.social li a.fa-itch-io {
 					background-color: #BF2E25;
 				}
 
