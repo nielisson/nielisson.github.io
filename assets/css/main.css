@@ -2046,6 +2046,12 @@ input, select, textarea {
 					background: #252525;
 				}
 
+		.wrapper.style6 {
+			background-color: #303030;
+			color: rgb(30, 155, 96);
+			text-shadow: -1px -1px 0px #181818;
+				}
+
 /* Nav */
 
 	#nav {
