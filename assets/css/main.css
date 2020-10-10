@@ -2047,8 +2047,7 @@ input, select, textarea {
 				}
 
 		.wrapper.style6 {
-			background-color: #f4f4f4;
-			text-shadow: 1px 1px 0px #fff;
+			text-shadow: 1px 1px 0px rgb(255, 255, 255);
 			align-content: center;
 			align-items: center;
 			align-self: center;
