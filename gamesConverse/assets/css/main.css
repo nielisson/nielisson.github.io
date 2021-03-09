@@ -1985,7 +1985,7 @@ input, select, textarea {
 		}
 
 			header.major:before, header.major:after {
-				background: rgba(224, 224, 224, 0.75);
+				background:#ffb83d;
 				content: '';
 				display: block;
 				height: 1px;
