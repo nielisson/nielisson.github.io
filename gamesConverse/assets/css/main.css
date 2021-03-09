@@ -2738,20 +2738,20 @@ input, select, textarea {
 
 		#header a {
 			border-bottom-color: rgba(255, 255, 255, 0.35);
-			color: rgba(0, 174, 255, 0.8);
+			color:#35c7bb;
 		}
 
 			#header a:hover {
 				border-bottom-color: transparent;
-				color: #4eb980;
+				color: #80f1e8;
 			}
 
 		#header strong, #header b {
-			color: #882828;
+			color: #25827a;
 		}
 
 		#header h1, #header h2, #header h3, #header h4, #header h5, #header h6 {
-			color: #ff0505;
+			color:#09625e;
 		}
 
 		#header input[type="submit"],
