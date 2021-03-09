@@ -2765,7 +2765,7 @@ input, select, textarea {
 		#header .logo {
 			background: #4eb980;
 			border-radius: 100%;
-			color: #ffffff;
+			color: #000000;
 			cursor: default;
 			display: inline-block;
 			font-size: 2.25em;
