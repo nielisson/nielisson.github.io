@@ -2706,12 +2706,12 @@ input, select, textarea {
 
 	#header {
 		background-attachment: scroll,							scroll,					fixed;
-		background-image: url("images/amazonCC0.jpeg"), url("images/overlay.png"), url("../../images/header.jpg");
+		background-image: url("images/amazonCC0.jpeg"), url("images/overlay.png"), url("../../images/pic01.jpg");
 		background-position: bottom center,					top left,				center center;
 		background-repeat: repeat-x,						repeat,					no-repeat;
 		background-size: 3200px 460px,					auto,					cover;
 		color: #303231;
-		padding: 10em 0 20em 0;
+		padding: 1em 0 20em 0;
 		position: relative;
 		text-align: center;
 	}
