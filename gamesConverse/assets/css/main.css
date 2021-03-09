@@ -2717,7 +2717,7 @@ input, select, textarea {
 	}
 
 		#header:before, #header:after {
-			background: rgba(224, 224, 224, 0.75);
+			background: rgba(4, 0, 245, 0.75);
 			content: '';
 			left: 50%;
 			position: absolute;
@@ -2738,7 +2738,7 @@ input, select, textarea {
 
 		#header a {
 			border-bottom-color: rgba(255, 255, 255, 0.35);
-			color: rgba(255, 255, 255, 0.8);
+			color: rgba(0, 174, 255, 0.8);
 		}
 
 			#header a:hover {
@@ -2747,18 +2747,18 @@ input, select, textarea {
 			}
 
 		#header strong, #header b {
-			color: #ffffff;
+			color: #882828;
 		}
 
 		#header h1, #header h2, #header h3, #header h4, #header h5, #header h6 {
-			color: #ffffff;
+			color: #ff0505;
 		}
 
 		#header input[type="submit"],
 		#header input[type="reset"],
 		#header input[type="button"],
 		#header .button {
-			background: #ffffff;
+			background: #ffc400;
 			color: #544d55;
 		}
 
