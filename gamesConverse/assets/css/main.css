@@ -2957,8 +2957,9 @@ input, select, textarea {
 			}
 
 				#header h1 {
-					font-size: 2.25em;
-					color: rgb(224, 37, 146)k;
+					font-size: 2em;
+					color:  #01fdb2;
+					
 				}
 
 				#header p {
