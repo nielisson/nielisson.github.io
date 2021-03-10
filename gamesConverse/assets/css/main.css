@@ -2303,6 +2303,9 @@ input, select, textarea {
 	ul.default {
 		list-style: disc;
 		padding-left: 1em;
+		align-items: left;
+		text-align: left;
+		align-self: left;
 	}
 
 		ul.default li {
