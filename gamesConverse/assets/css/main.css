@@ -2331,10 +2331,10 @@ input, select, textarea {
 		}
 
 		ul.actions.special {
-			-moz-justify-content: center;
-			-webkit-justify-content: center;
-			-ms-justify-content: center;
-			justify-content: center;
+			-moz-justify-content: left;
+			-webkit-justify-content: left;
+			-ms-justify-content: left;
+			justify-content: left;
 			width: 100%;
 			margin-left: 0;
 		}
