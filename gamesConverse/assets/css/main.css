@@ -2303,9 +2303,6 @@ input, select, textarea {
 	ul.default {
 		list-style: disc;
 		padding-left: 1em;
-		align-items: left;
-		text-align: left;
-		align-self: left;
 	}
 
 		ul.default li {
@@ -2331,10 +2328,10 @@ input, select, textarea {
 		}
 
 		ul.actions.special {
-			-moz-justify-content: left;
-			-webkit-justify-content: left;
-			-ms-justify-content: left;
-			justify-content: left;
+			-moz-justify-content: center;
+			-webkit-justify-content: center;
+			-ms-justify-content: center;
+			justify-content: center;
 			width: 100%;
 			margin-left: 0;
 		}
@@ -2911,6 +2908,13 @@ input, select, textarea {
 		padding: 6em 0 5em 0;
 		position: relative;
 		z-index: 1;
+
+	
+	}
+	
+	ul {
+		text-align: left;
+		
 	}
 
 		#main:before {
