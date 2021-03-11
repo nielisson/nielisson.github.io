@@ -2145,24 +2145,24 @@ input, select, textarea {
 
 	::-webkit-input-placeholder {
 		color: inherit;
-		opacity: 0.5;
+		opacity: 0.9;
 		position: relative;
 		top: 3px;
 	}
 
 	:-moz-placeholder {
 		color: inherit;
-		opacity: 0.5;
+		opacity: 0.9;
 	}
 
 	::-moz-placeholder {
 		color: inherit;
-		opacity: 0.5;
+		opacity: 0.9;
 	}
 
 	:-ms-input-placeholder {
 		color: inherit;
-		opacity: 0.5;
+		opacity: 0.9;
 	}
 
 /* Image */
@@ -2532,7 +2532,7 @@ input, select, textarea {
 		color: #ffffff;
 		cursor: pointer;
 		display: inline-block;
-		font-size: 0.9em;
+		font-size: fit;
 		font-weight: 700;
 		letter-spacing: 0.125em;
 		line-height: 10em;
@@ -2867,7 +2867,7 @@ input, select, textarea {
 		}
 
 		#footer .formerize-placeholder {
-			color: rgba(255, 255, 255, 0.3) !important;
+			color: rgb(27, 27, 27) !important;
 		}
 
 		#footer form {
