@@ -2537,6 +2537,7 @@ input, select, textarea {
 		letter-spacing: 0.125em;
 		line-height: 10em;
 		min-width: 50em;
+		width: 100%;
 		padding: 0 1.5em;
 		text-align: center;
 		text-decoration: none;
