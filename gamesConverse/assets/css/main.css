@@ -2533,9 +2533,9 @@ input, select, textarea {
 		cursor: pointer;
 		display: inline-block;
 		font-size: larger;
-		font-weight: 700;
+		font-weight: 900;
 		letter-spacing: 0.125em;
-		line-height: 10em;
+		line-height: 50em;
 		min-width: 50em;
 		padding: 0 1.5em;
 		text-align: center;
