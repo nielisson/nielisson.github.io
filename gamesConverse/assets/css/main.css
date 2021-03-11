@@ -2591,7 +2591,7 @@ input, select, textarea {
 		input[type="reset"].small,
 		input[type="button"].small,
 		.button.small {
-			font-size: 0.8em;
+			font-size: 30em;
 		}
 
 /* Box */
