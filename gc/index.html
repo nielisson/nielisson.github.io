@@ -955,7 +955,7 @@
                     <div class="text-container">
                         <div class="section-title">CONTACT</div>
                         <h2>Converse with us!</h2>
-                        <p>You can stop by our office for a cup of coffee and just use the contact form below for any questions and inquiries</p>
+                        <p>Use the contact form below for any questions, comment and inquiries</p>
                         <ul class="list-unstyled li-space-lg">
                             <li class="address"><i class="fas fa-map-marker-alt"></i>Paris, France</li>
                             <li><i class="fas fa-envelope"></i><a href="mailto:hey.games.converse@gmail.com">hey.games.converse@gmail.com</a></li>
@@ -986,15 +986,22 @@
                     
                     <!-- Contact Form -->
                     <form action="https://formsubmit.co/nielisson_silva@hotmail.com" method="POST" id="contactForm">
-                   
-                            <label class="label-control" for="cname"><input type="text" name="name" required placeholder="Name"></label>
-                    
-                            <label><input type="email" name="email" required placeholder="Email"></label>                  
-                     
-                            <label><textarea placeholder="Your Message" class="form-control" name="message" rows="10" required></textarea></label>
-                      
-                            <center><label><button type="submit" class="form-control-submit-button">Send</button></label></center>
+                        <div class="form-group">
+                            <label class="label-control" for="cname"><input type="text" name="name" required placeholder="Name" id="cname" class="form-control-input"></label>
+                            <div class="help-block with-errors"></div>
+                        </div>
 
+                        <div class="form-group">
+                            <label class="label-control" for="cemail"><input type="email" name="email" required placeholder="Email" class="form-control-input" id="cemail"></label>
+                            <div class="help-block with-errors"></div>  
+                        </div>                
+                        <div class="form-group">
+                            <label class="label-control" for="cmessage"><textarea placeholder="Your Message" name="message" rows="10" class="form-control-textarea" id="cmessage" required></textarea></label>
+                            <div class="help-block with-errors"></div>
+                        </div>
+                        <div class="form-group">
+                            <label><button type="submit" class="form-control-submit-button">SUBMIT MESSAGE</button></label>
+                        </div>
                         <input type="hidden" name="_autoresponse" value="Thank you for your message. We will be replying soon! :)">
                     <!--	<input type="hidden" name="_next" value="https://yourdomain.co/thanks.html">-->
                     </form> 
