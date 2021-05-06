@@ -587,7 +587,7 @@ input[type='checkbox'] {
 	right: 0;
 	bottom: 0;
 	left: 0;
-	background: #113448;
+	background: #09625e;
 }
 
 .spinner {
@@ -975,8 +975,9 @@ input[type='checkbox'] {
 /*************************/
 .accordion .area-1 {
 	height: 27rem;
-	background: url("https://www.youtube.com/watch?v=gg6W_eTJdsQ&t=12s") center center no-repeat;
+	background: url('../images/bjf.jpeg') center center no-repeat;
 	background-size: cover;
+
 }
 
 .accordion .accordion-container {
