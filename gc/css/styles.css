@@ -1013,8 +1013,8 @@ input[type='checkbox'] {
 /*     08. Details 1     */
 /*************************/
 .accordion .area-1 {
-	height: 27rem;
-	background: url('../images/bjf.jpeg') center center no-repeat;
+	height: 24rem;
+	/*background: url('../images/bjf.jpeg') center center no-repeat;*/
 	background-size: cover;
 
 }
