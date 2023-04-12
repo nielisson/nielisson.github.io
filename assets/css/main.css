@@ -377,6 +377,7 @@ input, select, textarea {
 
 		.row > .col-4 {
 			width: 33.33333%;
+			color: #262626;
 		}
 
 		.row > .off-4 {
@@ -409,6 +410,7 @@ input, select, textarea {
 
 		.row > .col-8 {
 			width: 66.66667%;
+			color: #262626;
 		}
 
 		.row > .off-8 {
@@ -2042,6 +2044,8 @@ input, select, textarea {
 		.wrapper.style3 {
 			background-color: #f4f4f4;
 			text-shadow: 1px 1px 0px #fff;
+			color: #262626;
+			
 		}
 
 		.wrapper.style4 {
@@ -2392,13 +2396,11 @@ input, select, textarea {
 			.box {
 				padding: 30px 20px 30px 20px;
 				margin: 0 0 20px 0 !important;
-				color: #00e65c;
 				
 			}
 
 				.box h3 {
 					margin-bottom: 0.25em;
-					color: #00e65c;
 				}
 
 				.box .image.centered {
@@ -2417,22 +2419,18 @@ input, select, textarea {
 					max-width: 32em;
 					margin-left: auto !important;
 					margin-right: auto !important;
-					color: #00e65c;
+					
 				}
 
 				.box.style2 {
 					max-width: 32em;
 					margin-left: auto !important;
 					margin-right: auto !important;
-					color: #00e65c;
+					
 					
 					
 				}
 
-				.box.style2 p {
-					color: #00e65c;
-					font-weight: bold;
-				}
 				
 
 		/* Wrappers */
