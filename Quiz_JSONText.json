@@ -2,14 +2,14 @@
 	"news": [
 		{
 			"newsTitle": "Naturalisation refusée !",
-			"imageURL": "https://www.passportindex.org/countries/fr.png",
+			"imageURL": "https://nielisson.github.io/gc/rejected.jpg",
 			"newsContent": "Un jeune homme albanais de 25 ans, résidant en France depuis 12 ans, s'est vu refuser la naturalisation pour cause de culture générale insuffisante, selon Le Parisien.",
 			"newsLink": "https://www.lefigaro.fr/actualite-france/sa-demande-de-naturalisation-est-refusee-car-il-ne-sait-pas-qui-est-edith-cresson-20230902"
 		},
 
 		{
 			"newsTitle": "Conseil du jour",
-			"imageURL": "https://nielisson.github.io/gc/learn.jpg",
+			"imageURL": "https://nielisson.github.io/gc/demande-de-naturalisation.png",
 			"newsContent": "Pour vérifier le statut de votre demande de naturalisation de manière simple, connectez-vous au site ANEF et cliquez sur le bouton ci-dessous. Pour plus d'informations détaillées, copiez simplement l'identifiant du dossier affiché et le remplacez dans le lien suivant: https://administration-etrangers-en-france.interieur.gouv.fr/api/anf/usager/dossiers/DOSSIER_ID",
 			"newsLink": "https://administration-etrangers-en-france.interieur.gouv.fr/api/anf/usager/dossiers/statut"
 		},
