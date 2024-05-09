@@ -8,10 +8,10 @@
 		},
 
 		{
-			"newsTitle": "Second News Title",
+			"newsTitle": "Conseil du jour",
 			"imageURL": "https://nielisson.github.io/gc/learn.jpg",
-			"newsContent": "Second news content goes here...",
-			"newsLink": "https://www.prefecturedepolice.interieur.gouv.fr/demarches/la-naturalisation-ou-la-reintegration-dans-la-nationalite-francaise-procedure-par-decret"
+			"newsContent": "Pour vérifier le statut de votre demande de naturalisation de manière simple, connectez-vous au site ANEF et cliquez sur le bouton ci-dessous. Pour plus d'informations détaillées, copiez simplement l'identifiant du dossier affiché et le remplacez dans le lien suivant: https://administration-etrangers-en-france.interieur.gouv.fr/api/anf/usager/dossiers/DOSSIER_ID",
+			"newsLink": "https://administration-etrangers-en-france.interieur.gouv.fr/api/anf/usager/dossiers/statut"
 		},
 
 		{
