@@ -8,9 +8,16 @@
 		},
 
 		{
-			"newsTitle": "Conseil du jour",
+			"newsTitle": "Conseil du jour #1",
 			"imageURL": "https://nielisson.github.io/gc/demande-de-naturalisation.png",
 			"newsContent": "Pour vérifier le statut de votre demande de naturalisation de manière simple, connectez-vous au site ANEF et cliquez sur le bouton ci-dessous. Pour plus d'informations détaillées, copiez simplement l'identifiant du dossier affiché et le remplacez dans le lien suivant: https://administration-etrangers-en-france.interieur.gouv.fr/api/anf/usager/dossiers/DOSSIER_ID",
+			"newsLink": "https://administration-etrangers-en-france.interieur.gouv.fr/api/anf/usager/dossiers/statut"
+		},
+
+		{
+			"newsTitle": "Conseil du jour #2",
+			"imageURL": "https://nielisson.github.io/gc/demande-de-naturalisation.png",
+			"newsContent": "Comment pouvez-vous vous renseigner sur les lois et les règles en vigueur ? Toutes les lois, souvent regroupées en codes, sont disponibles sur internet : www.legifrance.gouv.fr et sur le site www.vie-publique.fr présente les principales règles ainsi que le fonctionnement des institutions. D'ailleurs, c'est sur Légifrance que nous pouvons consulter le Journal officiel.",
 			"newsLink": "https://administration-etrangers-en-france.interieur.gouv.fr/api/anf/usager/dossiers/statut"
 		},
 
