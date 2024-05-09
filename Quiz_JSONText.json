@@ -5,7 +5,21 @@
 			"imageURL": "https://www.passportindex.org/countries/fr.png",
 			"newsContent": "Un jeune homme albanais de 25 ans, résidant en France depuis 12 ans, s'est vu refuser la naturalisation pour cause de culture générale insuffisante, selon Le Parisien.",
 			"newsLink": "https://www.lefigaro.fr/actualite-france/sa-demande-de-naturalisation-est-refusee-car-il-ne-sait-pas-qui-est-edith-cresson-20230902"
+		},
+
+		{
+			"newsTitle": "Second News Title",
+			"imageURL": "https://example.com/second-news-image.png",
+			"newsContent": "Second news content goes here...",
+			"newsLink": "https://example.com/second-news-link"
+		},
+
+		{
+			"newsTitle": "Third News Title",
+			"imageURL": "https://example.com/third-news-image.png",
+			"newsContent": "Third news content goes here...",
+			"newsLink": "https://example.com/third-news-link"
 		}
-	
+
 	]
 }
