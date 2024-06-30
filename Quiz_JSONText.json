@@ -33,7 +33,16 @@
 			"imageURL": "https://nielisson.github.io/gc/learn.jpg",
 			"newsContent": "Les candidats doivent justifier d'un niveau B1 en français, conformément au Cadre européen commun de référence pour les langues. Cela peut être prouvé par un diplôme français au niveau 3 ou supérieur, un DELF/DALF, ou une attestation de test linguistique récent de France Education International ou de la Chambre de Commerce et d'Industrie de Paris. Une attestation de comparabilité ENIC-NARIC est acceptée pour les diplômes obtenus dans un pays francophone. Les attestations de l'OFII ou les tests FLEX ne sont pas acceptés comme preuve de niveau B1 en français.",
 			"newsLink": "https://www.prefecturedepolice.interieur.gouv.fr/demarches/la-naturalisation-ou-la-reintegration-dans-la-nationalite-francaise-procedure-par-decret"
+		},
+
+
+		{
+			"newsTitle": "Apprenez le Français avec l'Actualité RFI",
+			"imageURL": "https://nielisson.github.io/gc/rfi_logo.png",
+			"newsContent": "Pour celles et ceux qui veulent améliorer leur français et se tenir à jour sur la politique, essayez le site Le Français Facile avec RFI. Vous pouvez écouter des résumés de l'actualité, courts et vraiment actuels (normalement pas plus de 10 minutes), puis répondre à des exercices pour vérifier votre compréhension.",
+			"newsLink": "https://francaisfacile.rfi.fr/fr/"
 		}
+
 
 	]
 }
