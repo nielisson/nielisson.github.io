@@ -1,0 +1,48 @@
+{
+	"news": [
+		{
+			"newsTitle": "Naturalisation refusée !",
+			"imageURL": "https://nielisson.github.io/gc/rejected.jpg",
+			"newsContent": "Un jeune homme albanais de 25 ans, résidant en France depuis 12 ans, s'est vu refuser la naturalisation pour cause de culture générale insuffisante, selon Le Parisien.",
+			"newsLink": "https://www.lefigaro.fr/actualite-france/sa-demande-de-naturalisation-est-refusee-car-il-ne-sait-pas-qui-est-edith-cresson-20230902"
+		},
+
+		{
+			"newsTitle": "Conseil du jour #1",
+			"imageURL": "https://nielisson.github.io/gc/demande-de-naturalisation.png",
+			"newsContent": "Pour vérifier le statut de votre demande de naturalisation de manière simple, connectez-vous au site ANEF et cliquez sur le bouton ci-dessous. Pour plus d'informations détaillées, copiez simplement l'identifiant du dossier affiché et le remplacez dans le lien suivant: https://administration-etrangers-en-france.interieur.gouv.fr/api/anf/usager/dossiers/DOSSIER_ID",
+			"newsLink": "https://administration-etrangers-en-france.interieur.gouv.fr/api/anf/usager/dossiers/statut"
+		},
+
+		{
+			"newsTitle": "Conseil du jour #2",
+			"imageURL": "https://nielisson.github.io/gc/legifrance.png",
+			"newsContent": "Comment pouvez-vous vous renseigner sur les lois et les règles en vigueur ? Toutes les lois, souvent regroupées en codes, sont disponibles sur internet : www.legifrance.gouv.fr et sur le site www.vie-publique.fr présente les principales règles ainsi que le fonctionnement des institutions. D'ailleurs, c'est sur Légifrance que nous pouvons consulter le Journal officiel.",
+			"newsLink": "https://www.legifrance.gouv.fr"
+		},
+
+		{
+			"newsTitle": "COMMENT S'HABILLER POUR L'ENTRETIEN",
+			"imageURL": "https://nielisson.github.io/gc/getdressed.jpg",
+			"newsContent": "Simple, naturel, propre. Évitez de porter une cravate si vous n'avez pas l'habitude. On déconseille les vêtements exotiques et le voile, bien que beaucoup de gens soient naturalisés en portant des vêtements de leur pays. Cependant, à l'entretien, il est préférable de montrer votre intégration à la société française. Porter un vêtement religieux ou exotique peut susciter des questions de l'agent. Bien sûr, votre tenue ne peut pas être un motif de refus, mais une bonne première impression est essentielle pour réussir l'entretien.",
+			"newsLink": "https://www.facebook.com/groups/quiznaturalisation"
+		},
+
+		{
+			"newsTitle": "Niveau B1 pour la naturalisation",
+			"imageURL": "https://nielisson.github.io/gc/learn.jpg",
+			"newsContent": "Les candidats doivent justifier d'un niveau B1 en français, conformément au Cadre européen commun de référence pour les langues. Cela peut être prouvé par un diplôme français au niveau 3 ou supérieur, un DELF/DALF, ou une attestation de test linguistique récent de France Education International ou de la Chambre de Commerce et d'Industrie de Paris. Une attestation de comparabilité ENIC-NARIC est acceptée pour les diplômes obtenus dans un pays francophone. Les attestations de l'OFII ou les tests FLEX ne sont pas acceptés comme preuve de niveau B1 en français.",
+			"newsLink": "https://www.prefecturedepolice.interieur.gouv.fr/demarches/la-naturalisation-ou-la-reintegration-dans-la-nationalite-francaise-procedure-par-decret"
+		},
+
+
+		{
+			"newsTitle": "Apprenez le Français avec l'Actualité RFI",
+			"imageURL": "https://nielisson.github.io/gc/rfi_logo.png",
+			"newsContent": "Pour celles et ceux qui veulent améliorer leur français et se tenir à jour sur la politique, essayez le site Le Français Facile avec RFI. Vous pouvez écouter des résumés de l'actualité, courts et vraiment actuels (normalement pas plus de 10 minutes), puis répondre à des exercices pour vérifier votre compréhension.",
+			"newsLink": "https://francaisfacile.rfi.fr/fr/"
+		}
+
+
+	]
+}
